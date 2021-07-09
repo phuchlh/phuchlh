@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## Connect me via:
+## Contact with me by:
 1. [Facebook](https://facebook.com/hongphuc.huynhle.1)
 2. [Email](mailto:phuchlh.job@gmail.com)
