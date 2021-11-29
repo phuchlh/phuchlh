@@ -4,7 +4,8 @@
 - 👀 I’m interested in find something new
 - 💻 I have been learning Java, C#, Javascript
 
-![PhucHLH's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuchlh&show_icons=true&theme=jolly )](https://github.com/phuchlh/github-readme-stats)
+![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuchlh&show_icons=true&theme=blueberry)
+
 
 ## Contact with me by:
 1. [Facebook](https://facebook.com/hongphuc.huynhle.1)
