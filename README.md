@@ -6,7 +6,7 @@
 - 💻 I have been learning Java, C#, Javascript
 
 ## My stats:
-![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuchlh&show_icons=true&theme=blueberry)
+![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuchlh&show_icons=true&theme=blueberry&hide_border=true)
 
 
 ## Contact with me by:
