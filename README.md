@@ -6,9 +6,7 @@
 - 💻 I have been learning Java, C#, Javascript
 
 ## My stats:
-![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuchlh&show_icons=true&theme=blueberry&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuchlh&layout=compact)
+![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuchlh&show_icons=true&theme=blueberry&hide_border=true) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuchlh&layout=compact&theme=blueberry)
 
 ## Contact with me by:
 1. [Facebook](https://facebook.com/hongphuc.huynhle.1)
