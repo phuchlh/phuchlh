@@ -8,14 +8,6 @@
 ## My stats:
 ![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuchlh&show_icons=true&theme=blueberry&hide_border=true)    ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuchlh&layout=compact&theme=blueberry&hide_border=true)
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phuchlh&show_icons=true&theme=blueberry&hide_border=true" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuchlh&theme=blueberry&hide_border=true" />
-</a>
-
-
 
 ## Contact with me by:
 1. [Facebook](https://facebook.com/hongphuc.huynhle.1)
