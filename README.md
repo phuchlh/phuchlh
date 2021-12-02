@@ -4,7 +4,7 @@
 - 🏫 I'm currently learning at [FPT University](https://www.facebook.com/FPTU.HCM)
 - 👀 I’m interested in find something new
 - 💻 I have been learning Java, C#, Javascript
-
+- 💚 Photograph, listen to music, football
 ## My stats:
 ![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuchlh&show_icons=true&theme=blueberry&hide_border=true)
 
