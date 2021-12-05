@@ -11,7 +11,7 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuchlh&layout=compact&theme=blueberry&hide_border=true)
 
-## ![You are the](https://komarev.com/ghpvc/?username=phuchlh&color=blueviolet) visit my github profile
+## ![](https://komarev.com/ghpvc/?username=phuchlh&color=blueviolet&label=THANKS+TO) people for visited my github profile
 
 ## Contact with me by:
 
