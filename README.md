@@ -11,8 +11,6 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuchlh&layout=compact&theme=blueberry&hide_border=true)
 
-## ![](https://komarev.com/ghpvc/?username=phuchlh&color=blueviolet&label=THANKS+TO) people who visited my github profile
-
 ## Contact with me by:
 
 1. [Facebook](https://facebook.com/hongphuc.huynhle.1)
