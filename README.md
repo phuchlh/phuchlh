@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phuchlh&label=Profile%20views&color=0e75b6&style=flat" alt="phuchlh" /> </p>
 
-- 🌱 I’m currently learning **React Native, ReactJS and I have a bit experience with VueJS**
+- 🌱  I’m a mobile developer with hands-on experience in building cross-platform applications using Flutter and React Native. Currently, I'm pursuing a Master’s degree in Software Engineering and Artificial Intelligence 
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/phuchlh?tab=repositories)
 
