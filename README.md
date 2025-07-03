@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hong Phuc</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">A passionate Mobile Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phuchlh&label=Profile%20views&color=0e75b6&style=flat" alt="phuchlh" /> </p>
-
-- 🌱  I’m a mobile developer with hands-on experience in building cross-platform applications using Flutter and React Native. Currently, I'm pursuing a Master’s degree in Software Engineering and Artificial Intelligence 
+- 🌱  I’m a mobile developer with hands-on experience in building native and cross-platfowm applications using Flutter, React Native, Kotlin and Java. Currently, I'm pursuing a Master’s degree in Software Engineering and Artificial Intelligence 
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/phuchlh?tab=repositories)
 
-- 📫 How to reach me **phuchlh.job@gmail.com**
+- 📫 Email me at **phuchlh.job@gmail.com**
 
-- 📄 Know about my experiences [phuchlh](phuchlh.id.vn)
-
-- ⚡ Fun fact **I have a strong passionate with coding and photography, besides, I also like football as well as badminton**
+- ⚡ Fun fact **I have a strong passion for coding and photography, besides, I also like football as well as badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
